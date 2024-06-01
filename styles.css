@@ -312,24 +312,3 @@ input:checked + .slider:before {
 #contact form button:hover {
     background-color: #c5a6ff;
 }
-#curriculum{
-    scroll-margin-top: 80px;
-}
-/* Estilo para el botón Curriculum */
-.buttonCV {
-    display: block;
-    width: 200px;
-    padding: 10px;
-    background-color: #8a2be2;
-    color: #c5a6ff;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 10px;
-    margin: 20px auto;
-    transition: background-color 0.3s ease;
-}
-
-.buttonCV:hover {
-    background-color: #c5a6ff;
-    color: #ffffff;
-}
