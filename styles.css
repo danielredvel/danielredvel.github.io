@@ -313,7 +313,7 @@ input:checked + .slider:before {
     background-color: #c5a6ff;
 }
 /* Ajuste general */
-#curriculum {
+#curriculumBtn {
     scroll-margin-top: 100px; /* Ajusta este valor según sea necesario para pantallas más grandes */
 }
 
@@ -325,7 +325,7 @@ input:checked + .slider:before {
 }
 
 /* Estilo para el botón Curriculum */
-.buttonCV {
+.curriculumBtn {
     display: block;
     width: 200px;
     padding: 10px;
@@ -338,7 +338,7 @@ input:checked + .slider:before {
     transition: background-color 0.3s ease;
 }
 
-.buttonCV:hover {
+.curriculumBtn:hover {
     background-color: #c5a6ff;
     color: #ffffff;
 }
