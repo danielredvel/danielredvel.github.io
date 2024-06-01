@@ -312,33 +312,3 @@ input:checked + .slider:before {
 #contact form button:hover {
     background-color: #c5a6ff;
 }
-/* Ajuste general */
-#curriculumBtn {
-    scroll-margin-top: 100px; /* Ajusta este valor según sea necesario para pantallas más grandes */
-}
-
-/* Media query para pantallas más pequeñas (vista móvil) */
-@media (max-width: 768px) {
-    #curriculum {
-        scroll-margin-top: 20px; /* Ajusta este valor según sea necesario para pantallas más pequeñas */
-    }
-}
-
-/* Estilo para el botón Curriculum */
-.curriculumBtn {
-    display: block;
-    width: 200px;
-    padding: 10px;
-    background-color: #8a2be2;
-    color: #c5a6ff;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 10px;
-    margin: 20px auto;
-    transition: background-color 0.3s ease;
-}
-
-.curriculumBtn:hover {
-    background-color: #c5a6ff;
-    color: #ffffff;
-}
